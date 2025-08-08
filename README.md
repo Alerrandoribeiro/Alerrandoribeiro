@@ -40,6 +40,7 @@ Desenvolvedor Full Stack em formação, apaixonado por resolver problemas atrav�
 ![Snake animation](https://raw.githubusercontent.com/Alerrandoribeiro/Alerrandoribeiro/output/github-contribution-grid-snake.svg)
 
 
+
 ---
 
 ### 📫 Entre em Contato
