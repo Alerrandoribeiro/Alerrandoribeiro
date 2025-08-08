@@ -37,7 +37,7 @@ Desenvolvedor Full Stack em formação, apaixonado por resolver problemas atrav�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandoribeiro&layout=compact&show_icons=true&theme=merko)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alerrandoribeiro&theme=merko)
 
-![Snake animation](https://github.com/Alerrandoribeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alerrandoribeiro/Alerrandoribeiro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
